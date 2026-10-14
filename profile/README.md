@@ -4,7 +4,7 @@
 
 # HUmLrn
 
-HUmLrn is a research project at Politecnico di Milano investigating how artificial intelligence agents can learn from different forms of human feedback within a unified framework.
+HUmLrn is a research project at [Politecnico di Milano](https://www.polimi.it/en) investigating how artificial intelligence agents can learn from different forms of human feedback within a unified framework.
 
 Human guidance may be expressed through demonstrations, preferences, corrections, or evaluative signals. The project develops methodological foundations, theory, algorithms, software, and experimental benchmarks for integrating these heterogeneous feedback modalities into sequential decision-making.
 
@@ -21,10 +21,11 @@ Project repositories, experimental implementations, datasets, and benchmarks wil
 
 ## Project information
 
-- **Coordinator:** Politecnico di Milano — Department of Electronics, Information and Bioengineering (DEIB)
+- **Coordinator:** [Politecnico di Milano](https://www.polimi.it/en) — [Department of Electronics, Information and Bioengineering (DEIB)](https://www.deib.polimi.it/eng/)
 - **Duration:** January 2026 — December 2028
 - **Funding:** FIS 2 Starting Grant — Italian Science Fund, MUR
-- **Principal Investigator:** Alberto Maria Metelli
+- **Principal Investigator:** [Alberto Maria Metelli](https://albertometelli.github.io/)
+- **Project website:** TBD
 
 ## Acknowledgements
 
