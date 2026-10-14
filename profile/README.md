@@ -8,7 +8,7 @@ HUmLrn is a research project at Politecnico di Milano investigating how artifici
 
 Human guidance may be expressed through demonstrations, preferences, corrections, or evaluative signals. The project develops methodological foundations, theory, algorithms, software, and experimental benchmarks for integrating these heterogeneous feedback modalities into sequential decision-making.
 
-## Research directions
+## Objectives
 
 - **Methodological:** formalize learning from diverse human feedback within a unified representation.
 - **Theoretical:** characterize optimality, statistical complexity, and fundamental learning limits.
@@ -21,7 +21,7 @@ Project repositories, experimental implementations, datasets, and benchmarks wil
 
 ## Project information
 
-- **Institution:** Politecnico di Milano — Department of Electronics, Information and Bioengineering (DEIB)
+- **Coordinator:** Politecnico di Milano — Department of Electronics, Information and Bioengineering (DEIB)
 - **Duration:** January 2026 — December 2028
 - **Funding:** FIS 2 Starting Grant — Italian Science Fund, MUR
 - **Principal Investigator:** Alberto Maria Metelli
