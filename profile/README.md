@@ -26,6 +26,8 @@ Project repositories, experimental implementations, datasets, and benchmarks wil
 - **Funding:** FIS 2 Starting Grant — Italian Science Fund, MUR
 - **Principal Investigator:** [Alberto Maria Metelli](https://albertometelli.github.io/)
 - **Project website:** TBD
+- **Code**: [GitHub Organization](https://github.com/humlrn)
+- **Datasets**: [Datasets](https://huggingface.co/humlrn)
 
 ## Acknowledgements
 
