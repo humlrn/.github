@@ -25,7 +25,7 @@ Project repositories, experimental implementations, datasets, and benchmarks wil
 - **Duration:** January 2026 — December 2028
 - **Funding:** FIS 2 Starting Grant — Italian Science Fund, MUR
 - **Principal Investigator:** [Alberto Maria Metelli](https://albertometelli.github.io/)
-- **Project website:** TBD
+- **Project website:** [humlrn.github.io](https://humlrn.github.io)
 - **Code**: [GitHub Organization](https://github.com/humlrn)
 - **Datasets**: [Datasets](https://huggingface.co/humlrn)
 
